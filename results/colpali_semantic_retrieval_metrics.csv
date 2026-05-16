@@ -1,0 +1,2 @@
+model,task,num_queries,clinical_semantic_accuracy,note
+ColPali,Clinical Semantic Retrieval,30,0.8333333333333334,"This metric checks whether the retrieved context contains clinically relevant information for the question, not whether it retrieves the exact same patient/sample."

@@ -1,0 +1,2 @@
+model,task,num_samples,rouge1,rouge2,rougeL,rougeLsum
+MedGemma-4B,Gold Context Open QA,12,0.772671145445118,0.6548638475047974,0.7294263385016809,0.7307359307359307

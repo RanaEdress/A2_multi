@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+pillow
+scikit-learn
+tqdm
+torch
+transformers==4.51.3
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+evaluate
+rouge-score
+nltk
+gradio

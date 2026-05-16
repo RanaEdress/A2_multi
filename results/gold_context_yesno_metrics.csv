@@ -1,0 +1,2 @@
+model,task,num_samples,accuracy
+MedGemma-4B,Gold Context YesNo QA,18,0.2777777777777778

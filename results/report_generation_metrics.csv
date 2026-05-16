@@ -1,0 +1,2 @@
+model,task,num_samples,rouge1,rouge2,rougeL,rougeLsum
+MedGemma-4B,Report Generation,20,0.3766068403516278,0.14032448304080303,0.2873601965032061,0.29507616040599627

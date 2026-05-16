@@ -1,0 +1,31 @@
+question,ground_truth_answer,predicted_answer,qa_type
+What are the findings in this chest X-ray?,AP and lateral views of the chest.  The lungs are clear.  Cardiomediastinal silhouette is within normal limits.  No acute osseous abnormality detected.,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there are no acute osseous abnormalities.",findings
+What is the impression of this chest X-ray?,No acute cardiopulmonary process.,No acute cardiopulmonary process.,impression
+Is there pleural effusion?,Not mentioned,No.,yes_no
+Is there pneumothorax?,Not mentioned,No.,yes_no
+Is there lung consolidation?,Not mentioned,No.,yes_no
+What are the findings in this chest X-ray?,Bullet fragments project over the left humeral head.  Heart size is normal.  An opacity in the left lung may represent atelectasis and mild pulmonary vascular congestion.  There is no osseous abnormality.  There is no pneumothorax or pleural effusion.,"The chest X-ray shows bullet fragments projecting over the left humeral head, mild pulmonary vascular congestion, and a possible opacity in the left lung which may represent atelectasis. There are no other significant findings.",findings
+What is the impression of this chest X-ray?,Mild pulmonary vascular congestion.  Bullet fragments are re- demonstrated.,Mild pulmonary vascular congestion. Bullet fragments are re-demonstrated.,impression
+Is there pleural effusion?,No,No.,yes_no
+Is there pneumothorax?,No,No.,yes_no
+Is there lung consolidation?,Not mentioned,"No. The opacity in the left lung is likely atelectasis, not consolidation.",yes_no
+What are the findings in this chest X-ray?,The lungs are well expanded and clear.  There is no pleural abnormality. The cardiac and mediastinal silhouettes are unremarkable.,"The lungs are clear, there are no pleural abnormalities, and the heart and mediastinum are normal.",findings
+What is the impression of this chest X-ray?,No acute cardiopulmonary process.,No acute cardiopulmonary process.,impression
+Is there pleural effusion?,Not mentioned,No.,yes_no
+Is there pneumothorax?,Not mentioned,No.,yes_no
+Is there lung consolidation?,Not mentioned,No.,yes_no
+What are the findings in this chest X-ray?,"Lungs are clear.  There is no evidence of pneumonia.  Mediastinal and cardiac contours are unremarkable in this patient with kyphoscoliosis, left rib fracture is healed.  CONCLUSION:  There is no evidence of pneumonia.","The lungs are clear, there is no evidence of pneumonia, mediastinal and cardiac contours are unremarkable, and a left rib fracture is healed.",findings
+What is the impression of this chest X-ray?,"Findings: Lungs are clear.  There is no evidence of pneumonia.  Mediastinal and cardiac contours are unremarkable in this patient with kyphoscoliosis, left rib fracture is healed.  CONCLUSION:  There is no evidence of pneumonia. Impression: ",There is no evidence of pneumonia.,impression
+Is there pleural effusion?,Not mentioned,No.,yes_no
+Is there pneumothorax?,Not mentioned,No.,yes_no
+Is there lung consolidation?,Not mentioned,No.,yes_no
+What are the findings in this chest X-ray?,PA and lateral views of the chest.  No prior.  The lungs are clear. Cardiomediastinal silhouette is normal.  Osseous structures are unremarkable.,"The lungs are clear, the cardiomediastinal silhouette is normal, and the osseous structures are unremarkable. There is no acute cardiopulmonary process.",findings
+What is the impression of this chest X-ray?,No acute cardiopulmonary process.,No acute cardiopulmonary process.,impression
+Is there pleural effusion?,Not mentioned,No.,yes_no
+Is there pneumothorax?,Not mentioned,No.,yes_no
+Is there lung consolidation?,Not mentioned,No.,yes_no
+What are the findings in this chest X-ray?,"There is no focal consolidation, pleural effusion or pneumothorax.  Cardiomediastinal silhouette is within normal limits.  No acute osseous abnormalities are identified.","The chest X-ray shows no focal consolidation, pleural effusion, pneumothorax, cardiomegaly, mediastinal abnormalities, or acute osseous abnormalities.",findings
+What is the impression of this chest X-ray?,No acute cardiopulmonary process.,No acute cardiopulmonary process.,impression
+Is there pleural effusion?,No,No.,yes_no
+Is there pneumothorax?,No,No.,yes_no
+Is there lung consolidation?,No,No.,yes_no
